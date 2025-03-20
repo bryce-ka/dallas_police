@@ -156,4 +156,4 @@ plt.show()
 ---
 
 
-**Built by [Bryce Anthony](https://github.com/bryce-ka) – AI & Data Science**  
+**Built by [Bryce Anthony](https://www.linkedin.com/in/bryce-anthony/) – AI & Data Science**  
