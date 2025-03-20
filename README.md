@@ -107,7 +107,7 @@ Then, run the notebook to generate **live-updating analytics graphs**.
 ```
 
 ### **📡 ETL Pipeline Flow**  
-- **Extract:** Retrieves data from the **Dallas Open Data API** (Socrata).  
+- **Extract:** Retrieves real-time data from the **Dallas Open Data API** (Socrata).  
 - **Transform:** Converts timestamps, ensures uniqueness, and handles missing values.  
 - **Load:** Inserts data into **MongoDB**, skipping duplicates.  
 - **Analyze:** Jupyter Notebook queries **live MongoDB data** and updates graphs in real-time.  
